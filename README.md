@@ -1,7 +1,7 @@
 # first
 
 > A Mpvue project
-## 包含 客户端 对应目录为server
+######  包含 服务端 对应目录为server
 
 ## Build Setup
 
