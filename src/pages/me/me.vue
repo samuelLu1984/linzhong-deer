@@ -10,6 +10,7 @@
         </div> 
         <yearProgress></yearProgress>
         <button class='btn' :disabled='!userinfo.openId' @click="getScanCode()">添加图书</button>
+        <button class='btn' :disabled='!userinfo.openId' >其他功能</button>
     </div>
 </template>
 <script>
